@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 14 Aug 2022 17:43:53 at https://chefisisalvarez.com.br/brigadeiros-gourmet/?gclid=Cj0KCQjwuuKXBhCRARIsAC-gM0jI1Jt9dOth54OBiN_UTF0pCPOIjV0yQR-Q1AFGbUnGHQ9k92vzDDkaArMrEALw_wcB&ref=P73198031X +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://chefisisalvarez.com.br/brigadeiros-gourmet/?gclid=Cj0KCQjwuuKXBhCRARIsAC-gM0jI1Jt9dOth54OBiN_UTF0pCPOIjV0yQR-Q1AFGbUnGHQ9k92vzDDkaArMrEALw_wcB&ref=P73198031X -O1 "D:\SITES\BRIGADEIRO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:44:17	Error: 	"Not Found" (404) at link https://chefisisalvarez.com.br/brigadeiros-gourmet/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 71 links scanned, 69 files written (4505906 bytes overall) [2646702 bytes received at 110279 bytes/sec], 2496313 bytes transferred using HTTP compression in 53 files, ratio 20%, 18.2 requests per connection
+(1 errors, 0 warnings, 0 messages)
